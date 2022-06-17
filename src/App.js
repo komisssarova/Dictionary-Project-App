@@ -14,7 +14,11 @@ export default function App() {
             Coded by{" "}
             <a href="https://www.linkedin.com/in/kateryna-komisarova/">
               Kateryna Komisarova
-            </a>
+            </a> {" "}
+            and hosted on{" "}
+            <a href="https://github.com/komisssarova/dictionary-project-app">GitHub</a>{" "}
+            and{" "}
+            <a href="https://taupe-stardust-dd3019.netlify.app/">Netlify</a>
           </small>
         </footer>
       </div>
