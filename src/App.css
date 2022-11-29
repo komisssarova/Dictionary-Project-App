@@ -1,24 +1,25 @@
 body {
-  background: #f9f8fe;
+  background: var(--color-primary-variant);
 }
   
 a {
-  color: #9670f4;
+  color: var(--color-bg);
   text-decoration: none;
+  font-size: 20px;
 }
 
 .App {
-  max-width: 960px;
+  max-width: 800px;
   margin: 0 auto;
 }
 
 .App-header {
-  font-family: Circular, Arial, sans-serif;
+  font-family: "Poppins", sans-serif;
   margin: 30px 0;
   text-align: center;
   font-size: 40px;
   font-weight: bold;
-  color: rgb(9, 11, 23);;
+  color: var(--color-bg);
   opacity: 0.6;
 }
 .App-footer {
